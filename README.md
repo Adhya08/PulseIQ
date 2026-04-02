@@ -51,11 +51,6 @@ PulseIQ is a multi-stage health assessment platform that analyzes user vitals an
 
 ---
 
-## 📸 Screenshots
-
-_Add your UI screenshots here (input forms, analysis dashboard, results view)_
-
----
 
 ## 🧠 Example Output
 
